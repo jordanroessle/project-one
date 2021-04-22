@@ -1,0 +1,11 @@
+Project Title: Fatal Car Crash vs Population Density
+
+Team Members: Jordan Roessle, Adam Stabell, Gary Castillo, Jazmine
+
+Project Desciption/Outline: 
+
+Research Questions:
+
+Datasets to use: https://crashviewer.nhtsa.dot.gov/CrashAPI
+
+Rough breakdown of tasks:
