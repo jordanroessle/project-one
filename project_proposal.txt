@@ -8,10 +8,11 @@ Research Questions: Is there a correlation between population density and fatal 
 					Do weather conditions affect fatal crash frequency? 
 					Demographic of fatal car crashes: age, sex, etc
 
-Datasets to use: https://crashviewer.nhtsa.dot.gov/CrashAPI
+Datasets to use: 	https://crashviewer.nhtsa.dot.gov/CrashAPI
+					https://openweathermap.org/api
 
 Rough breakdown of tasks: 
-Adam: Data retrieval, API connectivity 
-Jazmine: Data cleaning
-Jordan: stat analysis and creating charts
-Gary: Powerpoint and creating charts
+Adam: Data retrieval, API connectivity, Data Cleaning 
+Jazmine: Data Cleaning, Statistcal Analysis 
+Jordan: Stat Analysis, Creating Charts
+Gary: Powerpoint, Creating Charts
