@@ -1,0 +1,12 @@
+Plots 
+
+1. Population Density vs Crashes
+2. Heat map
+3. Time of day 
+4. Drunk driving percentage per state
+
+Maybes: Weather or Demographic
+
+Other things to do:
+Research obvious outliers in plot 1
+Powerpoint creation
