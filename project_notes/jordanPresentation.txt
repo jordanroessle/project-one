@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+add to slide: 33175 car crashes
+
+
+after groupby we had crash data from 2749 counties 
+population we had 3220 unique county with state
+
+after merge 
+2645 
